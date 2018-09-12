@@ -1,0 +1,17 @@
+html {
+
+
+ 
+     background: url('../img/background1.jpg') no-repeat center center fixed !important;
+
+ 
+}
+
+body {
+    background: none !important;
+}
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
