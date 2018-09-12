@@ -3,15 +3,21 @@ html {
 
  
      background: url('../img/background1.jpg') no-repeat center center fixed !important;
-
+    
  
 }
 
 body {
     background: none !important;
+    width: 100%;
 }
 
 .container {
     text-align: center;
     margin-top: 200px;
+    width: 450px !important;
+}
+
+.form-group input {
+    text-align: center;
 }
